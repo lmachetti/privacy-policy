@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Swapzy</title>
+</head>
+<body>
+    <h1>Privacy Policy per Swapzy</h1>
+
+    <p>La presente Privacy Policy descrive come l'applicazione <strong>Swapzy</strong> raccoglie, utilizza e protegge le informazioni dei suoi utenti.</p>
+
+    <h2>1. Dati raccolti</h2>
+    <ul>
+        <li><strong>Fotocamera:</strong> L'applicazione utilizza la fotocamera del dispositivo per permettere agli utenti di associare foto ai loro collectables. Le immagini sono memorizzate localmente o sul server dell'applicazione e non vengono condivise con terze parti senza consenso.</li>
+        <li><strong>Indirizzi email:</strong> Raccogliamo l'indirizzo email dell'utente per scopi di autenticazione e per inviare notifiche in-app relative ai collectables o ad altre funzionalità dell'app.</li>
+    </ul>
+
+    <h2>2. Scopo della raccolta</h2>
+    <p>I dati raccolti vengono utilizzati esclusivamente per consentire il corretto funzionamento dell'app:</p>
+    <ul>
+        <li>Autenticazione dell'utente e gestione dell'account.</li>
+        <li>Invio di notifiche e aggiornamenti all’interno dell’app.</li>
+        <li>Associazione di immagini ai collectables gestiti dagli utenti.</li>
+    </ul>
+
+    <h2>3. Protezione dei dati</h2>
+    <p>Adottiamo misure tecniche e organizzative adeguate per proteggere i dati personali degli utenti, inclusi sistemi di crittografia e controlli di accesso.</p>
+
+    <h2>4. Condivisione dei dati</h2>
+    <p>I dati raccolti non vengono condivisi con terze parti senza il consenso esplicito dell’utente, salvo obblighi di legge o per fornire servizi strettamente necessari al funzionamento dell’app.</p>
+
+    <h2>5. Diritti degli utenti</h2>
+    <p>Gli utenti possono in qualsiasi momento:</p>
+    <ul>
+        <li>Richiedere la modifica o la cancellazione dei propri dati.</li>
+        <li>Revocare il consenso al trattamento dei dati.</li>
+        <li>Contattare il team di supporto per ulteriori informazioni.</li>
+    </ul>
+
+    <h2>6. Contatti</h2>
+    <p>Per domande sulla privacy, gli utenti possono contattare il nostro team all’indirizzo: <a href="mailto:hmache@gmail.com">hmache@gmail.com</a></p>
+
+    <p>Data ultima revisione: 14 Agosto 2025</p>
+</body>
+</html>
